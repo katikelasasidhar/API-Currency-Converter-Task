@@ -1,0 +1,38 @@
+.box{
+    border-radius: 15px;
+    background:none;
+    outline: none;
+    height: 300px;
+    margin: auto;
+  
+    
+}
+.base{
+    margin-left: 60px;
+    margin-top:20px
+}
+.target{
+    margin-left: 60px;
+    margin-top:20px
+}
+.eamount{
+    margin-left: 60px;
+    margin-top: 15px;
+  
+    
+}
+body,html{
+    background:  #FCB69F;
+    background-image: url("c.jpg");
+
+    /* Full height */
+    height: 100vh;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading{
+    color:rgb(8, 110, 110)
+}
